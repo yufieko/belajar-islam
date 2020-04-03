@@ -10,6 +10,9 @@ Repositori ini berisi:
 3. Kitab / Buku
 4. Video
 
+## alat
+Rencana grafik akan dibuat memakai Balsamiq Wireframe
+
 ## referensi
 Konten yang ada di sini memakai referensi:
 1. [Pelajaran Dasar Agama Islam](https://muslim.or.id/10096-pelajaran-dasar-agama-islam.html)
